@@ -1,0 +1,4 @@
+name: TestPlugin
+version: ${project.version}
+main: com.yyyy.test.yyj.main
+api-version: 1.16
